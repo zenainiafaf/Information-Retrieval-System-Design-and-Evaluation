@@ -1,0 +1,12 @@
+Query,BIR_Classic DCG@20,LM_Dirichlet DCG@20,Gain BIR_Classic vs LM_Dirichlet (%)
+Q1,24.7694,0.0,inf
+Q2,41.7941,0.0,inf
+Q3,30.9168,0.0,inf
+Q4,25.7577,0.0,inf
+Q5,61.2813,0.0,inf
+Q6,50.8799,0.0,inf
+Q7,79.6917,0.0,inf
+Q8,57.0044,0.0,inf
+Q9,35.8103,0.0,inf
+Q10,15.764,0.0002,7881900.0
+Mean,42.36696,2e-05,7881900.0

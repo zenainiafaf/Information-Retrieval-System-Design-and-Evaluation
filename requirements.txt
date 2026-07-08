@@ -1,0 +1,15 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+
+# UI and Visualization
+streamlit
+plotly
+matplotlib
+
+# NLP
+nltk
+
+# Optional: For better performance
+scipy
