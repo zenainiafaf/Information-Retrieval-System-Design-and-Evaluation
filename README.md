@@ -280,17 +280,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - **MEDLINE Dataset**: National Library of Medicine
-- **Course**: Information Retrieval, USTHB M2 SII
 - **Libraries**: NumPy, pandas, scikit-learn, NLTK, Streamlit, Plotly
-
----
-
-## 📧 Contact
-
-For questions or collaboration:
-- **University**: USTHB (Université des Sciences et de la Technologie Houari Boumediene)
-- **Program**: Master 2 - Systèmes d'Information Intelligents
-- **Course**: Information Retrieval (Recherche d'Information)
 
 ---
 
