@@ -105,17 +105,6 @@ Contains evaluation outputs and visualizations:
 - **`/figures`**: Precision-Recall curves (interpolated and non-interpolated) for all models and queries
 - **`/gain_dcg_normalised`**: Pairwise gain matrices and reports
 
-### 📂 `/help` - Helper Modules
-
-Reference implementations and utilities:
-
-- **`BIR_BIRET_BM25.py`**: Combined BIR/BM25 reference implementation
-- **`model_language.py`**: Language model utility functions and shared logic
-
-### 📂 `/report` - Documentation
-
-Project reports and documentation files.
-
 ---
 
 ## 🚀 Installation
